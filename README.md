@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a project completed for NYU's Responsible Data Science. The goal of this project is to create a nurtriontal label for an Automated Decision System (ADS),
+This is a project completed for NYU's Responsible Data Science. The goal of this project is to create a nutritional label for an Automated Decision System (ADS),
 
 A nutritional label refers to a simple, standard label for an ADS that allows users to determine the "fitness for use" for a particular objective. This tool was originally developed develop interoperability and transparency. To learn more about nutrional labels, refer to [this article by Professors Julia Stoyanovich and Bill Howe.](http://sites.computer.org/debull/A19sept/p13.pdf)
 
