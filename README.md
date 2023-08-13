@@ -1,4 +1,4 @@
-# Responsible Data Science Nutrional Label Project
+# Nutritional Label for Give Me Some Credit Kaggle Competition
 
 ## By: Akshay Srinivasan and Rashed Rifat
 
