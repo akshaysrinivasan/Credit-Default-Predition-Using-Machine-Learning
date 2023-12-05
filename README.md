@@ -1,6 +1,6 @@
 # Nutritional Label for Give Me Some Credit Kaggle Competition
 
-## By: Akshay Srinivasan and Rashed Rifat
+## By: Akshay Srinivasan 
 
 ## Introduction
 
